@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5d0013/WYG/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 㕘同契大丹火候攅簇周天火候圖攅簇周天火數以合年月日時隨順陰陽抽添水火使龍精漸垂于鼎内金液流暢于胎中火候周天數金丹最要機年中隨月變日内逐時移四季如同處三神似有知火金真秘訣此外更何施叅同契大丹火候金火相交生藥圖日火月金晦夜合交精氣相紐生成萬物一月數終又復如初開闢以來循環無端水火相交濟萌芽從此芳金華施畢昴玉兔現心房魄滅從辛始魂蔵入艮鄉道終歸五六復卦又重張
+  hash: sha256:c00223cac67ec8e25fda9f484c82ffb39dd4aba8907ef0053c7a15cd8e41e105
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5d0013_WYG_004-1a, image: WYG1061/WYG1061-0572a.png}
+metadata:
+  title: 古文龍虎經註疏
+  edition:
+    short: WYG
+    label: 【四部全書・文淵閣】
+  date: '2015-08-29 00:59:12.879212'
+  source:
+    repository: kanripo
+    path: KR5d0013/KR5d0013_004.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:29781c68cf59e48dfb1229ff841487671c87846133b9ad7d6982034dff320203

@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5d0013/CK-KZ-jye/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 參同契大丹火候攢簇周天火候圖攢簇周天火數以合年月日時隨順陰陽抽添水火使龍精漸垂於鼎內金液流暢於胎中火候周天數金丹最要機年中隨月變日內逐時宜四季如同處三神似有知火金眞秘訣此外更何施攢簇周天火候之圖金火相交生藥之圖參同契大丹火候金火相交生藥圖日火月金晦夜合交精氣相紐生成萬物一月數終又復如初開闢以來循環無端水火相旣濟萌芽從此芳金華施畢昴玉兔現心房魄滅從辛始魂藏入艮鄉道終歸五六復卦又重張
+  hash: sha256:f81f7d8b847fa266695e4c12d6d0122cfec496546488df5535bb727f609731c1
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5d0013_CK-KZ_01p087b, image: JY112/CK-KZ_JY112_01p087b.png}
+metadata:
+  title: 古文龍虎經註疏
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 00:59:12.879212'
+  source:
+    repository: kanripo
+    path: KR5d0013/KR5d0013_004.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:94314ede35eddaea277ab085c8884278de8b14139f1a67b8ace1cfb91c89049c
