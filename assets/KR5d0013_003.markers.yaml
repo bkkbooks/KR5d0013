@@ -34,6 +34,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR5d0013_HFL_003-001a02}
   - {type: indent, offset: 0, content: 　　　, id: KR5d0013_krp_003-bkkind1}
   - {type: punctuation, offset: 0, content: (, id: KR5d0013_krp_003-bkkpn1}
+  - {type: voice, offset: 0, length: 23, name: note, id: n1}
   - {type: variant, offset: 1, length: 18, content: 保義郎差充皇弟少傅恩平郡王府指揮使臣, WYG: ''}
   - {type: punctuation, offset: 12, content: /, id: KR5d0013_krp_003-bkkpn2}
   - {type: variant, offset: 21, length: 16, content: 註䟽太乙宫養素齋道士臣周眞一即證, WYG: 撰}
@@ -5810,4 +5811,4 @@ markers:
 
       ', id: KR5d0013_krp_003-bkkkrnewl620}
   back: []
-hash: sha256:cd27247f6fc5a2ece8c72cc7cb5932ceb09ce3fb40e9814c2b2ad45dd0751c9a
+hash: sha256:ed3484ee296d85978965ee82c80f271d7a2487042af1b13aedf1e2495e321ab6

@@ -34,6 +34,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR5d0013_HFL_002-001a02}
   - {type: indent, offset: 0, content: 　　　, id: KR5d0013_krp_002-bkkind1}
   - {type: punctuation, offset: 0, content: (, id: KR5d0013_krp_002-bkkpn1}
+  - {type: voice, offset: 0, length: 23, name: note, id: n1}
   - {type: variant, offset: 1, length: 18, content: 保義郎差充皇弟少傅恩平郡王府指揮使臣, WYG: ''}
   - {type: variant, offset: 7, length: 1, content: 弟, CK-KZ: 帝}
   - {type: variant, offset: 7, length: 1, content: 弟, CK-KZ-jye: 帝}
@@ -3303,4 +3304,4 @@ markers:
 
       ', id: KR5d0013_krp_002-bkkkrnewl318}
   back: []
-hash: sha256:8afad8b37a748365281213d84046ed3e8938c2878c23f231c961b12885a62e38
+hash: sha256:8fa983f3355f0e394476e1bcc8db5ae6fc6a4759ca403a1d5a9e29cb1b421e29
